@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TEST",Apple Test Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+
+# ===== PAKISTANI NEWS =====
+# Add official/authorized Pakistani news streams here
+
+# ===== AUSTRALIA =====
+# Add official/authorized Australian TV streams here
+
+# ===== ADULT =====
+# Add legal adult subscription streams here
