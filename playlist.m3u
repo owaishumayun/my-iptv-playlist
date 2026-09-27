@@ -1,10 +1,17 @@
 #EXTM3U
 
+# =====================================================
+# PAKISTANI NEWS
+# =====================================================
+
 #EXTINF:-1 group-title="Pakistani News",ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 
 #EXTINF:-1 group-title="Pakistani News",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistani News",Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Pakistani News",Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
@@ -15,12 +22,16 @@ https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 #EXTINF:-1 group-title="Pakistani News",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Pakistani News",7 News Pakistan
-https://sscsott.com/7news/live/index.m3u8
+#EXTINF:-1 group-title="Pakistani News",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 
 #EXTINF:-1 group-title="Pakistani News",M News
 https://cdn.rabta.stream/M-News/index.m3u8
 
+
+# =====================================================
+# AUSTRALIA
+# =====================================================
 
 #EXTINF:-1 group-title="Australia",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -31,17 +42,55 @@ https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 group-title="Australia",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
+#EXTINF:-1 group-title="Australia",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
 #EXTINF:-1 group-title="Australia",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#EXTINF:-1 group-title="Australia",3AW
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 group-title="Australia",10 Bold
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 
 #EXTINF:-1 group-title="Australia",2GB
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
+#EXTINF:-1 group-title="Australia",3AW
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+
+#EXTINF:-1 group-title="Australia",6PR
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+
+#EXTINF:-1 group-title="Australia",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
 #EXTINF:-1 group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
-#EXTINF:-1 group-title="Australia",ticker News
+#EXTINF:-1 group-title="Australia",Ticker News
 https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
+
+#EXTINF:-1 group-title="Australia",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+
+#EXTINF:-1 group-title="Australia",WeatherSpy
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia",MovieSphere Australia
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia",NatureTime Australia
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia",The Pet Collective Australia
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia",ToonGoggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist.m3u8
+
+
+# =====================================================
+# ADULT
+# =====================================================
+
+# No verified lawful public adult M3U streams included.
+# Add streams from your own licensed adult IPTV provider here.
